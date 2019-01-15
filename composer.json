@@ -1,0 +1,22 @@
+{
+    "name": "wdteam/yii2-bank-card-info",
+    "description": "yii2-bank-card-info",
+    "type": "yii2-extension",
+    "keywords": ["yii2","extension"],
+    "license": "BSD-3-Clause",
+    "authors": [
+        {
+            "name": "windsdeng",
+            "email": "windsdeng@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.4.0",
+        "yiisoft/yii2": "~2.0.15"
+    },
+    "autoload": {
+        "psr-4": {
+            "wdteam\\bankCard\\": "src"
+        }
+    }
+}
