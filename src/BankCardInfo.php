@@ -200,12 +200,12 @@ class BankCardInfo extends Component
     /**
      * @var $bankLogo
      */
-    private  $bankLogo;
+    private static $bankLogo;
 
     /**
      * @var $bankCardInfo
      */
-    private $bankCardInfo;
+    private static $bankCardInfo;
 
     /**
      * 银行列表
