@@ -6,7 +6,7 @@
  * Time: 15:39
  */
 
-namespace wdteam\bankCard\BankCardInfo;
+namespace wdteam\bankCard;
 
 
 use yii\base\Component;
